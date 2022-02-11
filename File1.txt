@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 I am Guru.
+=======
+>>>>>>> parent of 74ade22 (File1 modified)
